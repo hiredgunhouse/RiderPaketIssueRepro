@@ -1,0 +1,6 @@
+packages/
+source/_ReSharper.Caches/
+source/MyProject.Api/bin/
+source/MyProject.Api/obj/
+source/.idea/
+source/MySolution.v3.ncrunchsolution.user

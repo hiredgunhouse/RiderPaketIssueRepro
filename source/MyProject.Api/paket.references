@@ -1,0 +1,7 @@
+Autofac
+Autofac.Extensions.DependencyInjection
+Microsoft.AspNetCore.Server.IISIntegration
+Microsoft.AspNetCore.Cors
+Microsoft.Extensions.Configuration.CommandLine
+NLog
+NLog.Web.AspNetCore

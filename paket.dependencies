@@ -1,0 +1,16 @@
+#version 4.8.5
+
+framework: auto-detect
+
+source https://www.nuget.org/api/v2
+
+nuget Autofac
+nuget Autofac.Extensions.DependencyInjection
+nuget EntityFramework
+nuget Microsoft.AspNetCore.Cors
+nuget Microsoft.AspNetCore.Server.IISIntegration
+nuget Microsoft.AspNetCore.TestHost
+nuget Microsoft.Extensions.Configuration.CommandLine
+nuget newtonsoft.json
+nuget NLog 5.0.0-beta09 beta
+nuget NLog.Web.AspNetCore
